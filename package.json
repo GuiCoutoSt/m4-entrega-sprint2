@@ -6,7 +6,7 @@
   "author": "Guilherme Couto <gcoutos95@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "ts-node-dev src/index.ts",
+    "dev": "ts-node-dev src/app.ts",
     "typeorm": "typeorm-ts-node-commonjs"
   },
   "dependencies": {
